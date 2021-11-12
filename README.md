@@ -1,4 +1,4 @@
-### Hi there 👋, My Company Name is Island Boyz
+### Hi There 👋, My Company Name is Island Boyz
 ![](https://www.islandboyztoken.com/images/1920x900.png)
 
 Island Boyz Token is a peer to peer decentralized transaction unit built on the BSC network that teaches crypto education mixed with encouraging and a fun environment.
