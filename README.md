@@ -1,8 +1,10 @@
+![](https://www.islandboyztoken.com/images/1920x900.png)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Islbyztoken)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/IslandBoyZ42069)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.islandboyztoken.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/IslandBoyZOfficial)
 
 
 ### Hi There 👋, <br> My Company Name is Island Boyz
-![](https://www.islandboyztoken.com/images/1920x900.png)
+
 
 Island Boyz Token is a peer to peer decentralized transaction unit built on the BSC network that teaches crypto education mixed with encouraging and a fun environment.
 
