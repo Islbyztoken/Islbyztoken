@@ -11,7 +11,7 @@ Island Boyz Token is a peer to peer decentralized transaction unit built on the 
 
 Skills: VUE JS <br> REACT <br> JS <br> HTML <br> CSS <br>
 
-🔭 I’m currently working on Islbyztoken <br><
+🔭 I’m currently working on Islbyztoken <br>
 🌱 I’m currently learning js <br>
 💬 Ask me about Crypto Education <br>
 📫 How to reach me: islandboyztoken@gmail.com <br>
