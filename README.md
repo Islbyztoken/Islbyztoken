@@ -13,12 +13,17 @@
 
 
 
-Skills: <br> VUE JS <br> REACT <br> JS <br> HTML <br> CSS <br>
+🟢**SKRILLS:** <br> 
+✅*VUE JS* <br>
+✅*REACT* <br>
+✅*JS* <br> 
+✅*HTML* <br>
+✅*CSS* <br>
 
-🔭 I’m currently working on Islbyztoken <br>
-🌱 I’m currently learning js <br>
-💬 Ask me about Crypto Education <br>
-📫 How to reach me: islandboyztoken@gmail.com <br>
+🔭 I’m currently working on **Islbyztoken** <br>
+<!-- 🌱 I’m currently learning js <br> -->
+💬 Ask me about **Crypto Education** <br>
+📫 How to reach me: **islandboyztoken@gmail.com** <br>
 
 
  
