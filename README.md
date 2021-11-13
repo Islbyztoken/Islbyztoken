@@ -21,7 +21,6 @@
 ✅*CSS* <br>
 
 🔭 I’m currently working on **Islbyztoken** <br>
-<!-- 🌱 I’m currently learning js <br> -->
 💬 Ask me about **Crypto Education** <br>
 📫 How to reach me: **islandboyztoken@gmail.com** <br>
 
