@@ -13,7 +13,7 @@
 
 
 
-🟢**SKRILLS:** <br> 
+🟢**SKILLS:** <br> 
 ✅*VUE JS* <br>
 ✅*REACT* <br>
 ✅*JS* <br> 
